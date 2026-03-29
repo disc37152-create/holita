@@ -1,0 +1,152 @@
+[29Mar2026 12:42:32.926] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 46.0.14, --fml.mcVersion, 1.20, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230608.053357, nogui]
+[29Mar2026 12:42:32.929] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.18 by Ubuntu; OS Linux arch amd64 version 6.8.0-1044-azure
+[29Mar2026 12:42:33.047] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/holita/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Mar2026 12:42:33.089] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/holita/servidor_minecraft/config/fml.toml is not correct. Correcting
+[29Mar2026 12:42:33.095] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[29Mar2026 12:42:33.320] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holita/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20-46.0.14/fmlcore-1.20-46.0.14.jar is missing mods.toml file
+[29Mar2026 12:42:33.322] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holita/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20-46.0.14/javafmllanguage-1.20-46.0.14.jar is missing mods.toml file
+[29Mar2026 12:42:33.323] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holita/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20-46.0.14/lowcodelanguage-1.20-46.0.14.jar is missing mods.toml file
+[29Mar2026 12:42:33.325] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/holita/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20-46.0.14/mclanguage-1.20-46.0.14.jar is missing mods.toml file
+[29Mar2026 12:42:33.423] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[29Mar2026 12:42:35.119] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29Mar2026 12:42:41.846] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 46.0.14, for MC 1.20 with MCP 20230608.053357
+[29Mar2026 12:42:41.848] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v46.0.14 Initialized
+[29Mar2026 12:42:42.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Mar2026 12:42:43.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 46.0.14 Target: 46.0.14
+[29Mar2026 12:42:43.729] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Mar2026 12:42:43.766] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/holita/servidor_minecraft/libraries/net/minecraft/server/1.20-20230608.053357/server-1.20-20230608.053357-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[29Mar2026 12:42:43.766] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/holita/servidor_minecraft/libraries/net/minecraft/server/1.20-20230608.053357/server-1.20-20230608.053357-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[29Mar2026 12:42:45.889] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[29Mar2026 12:42:46.048] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[29Mar2026 12:42:46.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20
+[29Mar2026 12:42:46.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Mar2026 12:42:46.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Mar2026 12:42:46.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Mar2026 12:42:46.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Mar2026 12:42:46.832] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Mar2026 12:42:46.928] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Mar2026 12:42:46.928] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Mar2026 12:42:46.929] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Mar2026 12:42:46.929] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Mar2026 12:42:46.969] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[29Mar2026 12:42:46.972] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[29Mar2026 12:42:46.973] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[29Mar2026 12:42:46.973] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[29Mar2026 12:42:46.973] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[29Mar2026 12:42:46.974] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[29Mar2026 12:42:46.974] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[29Mar2026 12:42:46.977] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[29Mar2026 12:42:47.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Mar2026 12:42:53.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Mar2026 12:42:54.434] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2026 12:42:54.438] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2026 12:42:54.439] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2026 12:42:54.935] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2026 12:42:55.414] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2026 12:42:55.915] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2026 12:42:56.401] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2026 12:42:56.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[29Mar2026 12:42:57.398] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[29Mar2026 12:42:57.901] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[29Mar2026 12:42:58.406] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[29Mar2026 12:42:58.909] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[29Mar2026 12:42:59.420] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[29Mar2026 12:42:59.938] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[29Mar2026 12:43:00.425] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[29Mar2026 12:43:00.923] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[29Mar2026 12:43:01.398] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[29Mar2026 12:43:01.900] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[29Mar2026 12:43:02.401] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[29Mar2026 12:43:02.910] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[29Mar2026 12:43:03.399] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[29Mar2026 12:43:03.901] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
+[29Mar2026 12:43:04.402] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[29Mar2026 12:43:04.898] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[29Mar2026 12:43:05.446] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
+[29Mar2026 12:43:05.904] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[29Mar2026 12:43:06.404] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[29Mar2026 12:43:06.915] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[29Mar2026 12:43:07.401] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
+[29Mar2026 12:43:07.926] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[29Mar2026 12:43:08.399] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
+[29Mar2026 12:43:08.900] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[29Mar2026 12:43:09.403] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[29Mar2026 12:43:09.909] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
+[29Mar2026 12:43:10.409] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[29Mar2026 12:43:10.906] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
+[29Mar2026 12:43:11.398] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
+[29Mar2026 12:43:11.909] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
+[29Mar2026 12:43:12.402] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
+[29Mar2026 12:43:12.902] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
+[29Mar2026 12:43:13.406] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[29Mar2026 12:43:13.906] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[29Mar2026 12:43:14.402] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[29Mar2026 12:43:14.916] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[29Mar2026 12:43:15.404] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
+[29Mar2026 12:43:16.830] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
+[29Mar2026 12:43:16.831] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
+[29Mar2026 12:43:16.904] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
+[29Mar2026 12:43:17.401] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[29Mar2026 12:43:17.923] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[29Mar2026 12:43:18.400] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[29Mar2026 12:43:18.900] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
+[29Mar2026 12:43:19.405] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[29Mar2026 12:43:19.902] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
+[29Mar2026 12:43:20.166] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 26769 ms
+[29Mar2026 12:43:20.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (33.203s)! For help, type "help"
+[29Mar2026 12:43:20.172] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Mar2026 12:43:38.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chukuskuz[/127.156.0.214:33105] logged in with entity id 347 at (7.5, 68.0, 0.5)
+[29Mar2026 12:43:38.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz joined the game
+[29Mar2026 12:44:13.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: willyrex14[/127.224.140.153:47891] logged in with entity id 579 at (-0.5, 67.0, -9.5)
+[29Mar2026 12:44:13.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willyrex14 joined the game
+[29Mar2026 12:45:27.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz has made the advancement [Stone Age]
+[29Mar2026 12:45:51.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz has made the advancement [Getting an Upgrade]
+[29Mar2026 12:46:03.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willyrex14 has made the advancement [Stone Age]
+[29Mar2026 12:46:27.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willyrex14 has made the advancement [Getting an Upgrade]
+[29Mar2026 12:48:17.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chukuskuz lost connection: Disconnected
+[29Mar2026 12:48:17.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz left the game
+[29Mar2026 12:48:20.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: willyrex14 lost connection: Disconnected
+[29Mar2026 12:48:20.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willyrex14 left the game
+[29Mar2026 12:50:23.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselias[/127.156.0.214:59275] logged in with entity id 1645 at (3.5, 67.0, -7.5)
+[29Mar2026 12:50:23.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselias joined the game
+[29Mar2026 12:50:43.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselias lost connection: Disconnected
+[29Mar2026 12:50:43.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselias left the game
+[29Mar2026 12:51:51.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chukuskuz[/127.156.0.214:54139] logged in with entity id 1750 at (-56.90330711592336, 97.0, -6.594052302439422)
+[29Mar2026 12:51:51.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz joined the game
+[29Mar2026 12:52:41.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: willyrex14[/127.224.140.153:47857] logged in with entity id 1978 at (-93.67522102122169, 107.0, -14.712191820251643)
+[29Mar2026 12:52:41.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willyrex14 joined the game
+[29Mar2026 12:53:48.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[29Mar2026 12:56:42.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DJtotote[/127.48.133.156:50115] logged in with entity id 3017 at (1.5, 57.0, 3.5)
+[29Mar2026 12:56:42.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DJtotote joined the game
+[29Mar2026 12:57:38.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz was slain by Zombie
+[29Mar2026 12:57:41.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz has made the advancement [Monster Hunter]
+[29Mar2026 12:57:45.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willyrex14 has made the advancement [Monster Hunter]
+[29Mar2026 12:58:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Chukuskuz to willyrex14
+[29Mar2026 12:58:47.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DJtotote lost connection: Disconnected
+[29Mar2026 12:58:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DJtotote left the game
+[29Mar2026 12:58:51.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DJtotote[/127.48.133.156:34169] logged in with entity id 3981 at (1.1061973546907315, 67.0, -10.699999988079071)
+[29Mar2026 12:58:51.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DJtotote joined the game
+[29Mar2026 13:02:33.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz has made the advancement [Acquire Hardware]
+[29Mar2026 13:02:56.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willyrex14 has made the advancement [Acquire Hardware]
+[29Mar2026 13:04:08.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DJtotote has made the advancement [Sweet Dreams]
+[29Mar2026 13:04:59.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DJtotote has made the advancement [Monster Hunter]
+[29Mar2026 13:05:05.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DJtotote has made the advancement [Acquire Hardware]
+[29Mar2026 13:07:00.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz has made the advancement [Diamonds!]
+[29Mar2026 13:07:47.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willyrex14 has made the advancement [Isn't It Iron Pick]
+[29Mar2026 13:07:50.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willyrex14 has made the advancement [Diamonds!]
+[29Mar2026 13:08:24.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DJtotote has made the advancement [Suit Up]
+[29Mar2026 13:09:36.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willyrex14 has made the advancement [Not Today, Thank You]
+[29Mar2026 13:10:17.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz has made the advancement [Isn't It Iron Pick]
+[29Mar2026 13:14:21.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DJtotote has made the advancement [Isn't It Iron Pick]
+[29Mar2026 13:15:24.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DJtotote has made the advancement [Stone Age]
+[29Mar2026 13:18:42.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: willyrex14 lost connection: Disconnected
+[29Mar2026 13:18:42.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willyrex14 left the game
+[29Mar2026 13:25:24.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DJtotote has made the advancement [Not Today, Thank You]
+[29Mar2026 13:25:49.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz has made the advancement [Not Today, Thank You]
+[29Mar2026 13:28:36.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DJtotote> wwwwwwww
+[29Mar2026 13:28:47.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz has made the advancement [Sweet Dreams]
+[29Mar2026 13:28:50.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chukuskuz> zzzzzzzzzz
+[29Mar2026 13:28:56.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DJtotote> sexo
+[29Mar2026 13:28:58.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DJtotote> anal
+[29Mar2026 13:28:58.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chukuskuz> zzz
+[29Mar2026 13:32:55.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chukuskuz has made the advancement [A Seedy Place]
